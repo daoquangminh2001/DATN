@@ -1,0 +1,10 @@
+.table-box{
+    width: 100%;
+    margin-top: 20px;
+    height: 400px;
+    overflow-x: scroll;
+}
+.table-box::-webkit-scrollbar{
+    width: 5px;
+}
+

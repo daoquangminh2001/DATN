@@ -1,0 +1,33 @@
+@import url("./common/Slideshow.css");
+.number-text, .prev, .next{
+    display:  none;
+}
+.slide, .dot{
+    border: unset;
+}
+
+.tienich {
+    display: flex;
+}
+
+.tienich .item {
+    display: flex;
+    margin-right: 20px;
+}
+
+.tienich .item .icon {
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+}
+
+.tienich .item .text {
+    font-family: degular, Sans-serif;
+}
+
+.menu {
+        font-size: 56px;
+        font-weight: 700;
+        line-height: 72px;
+        font-family: degular, Sans-serif;
+}

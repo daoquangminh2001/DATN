@@ -1,0 +1,18 @@
+.pagination li{
+    padding: 10px 15px;
+    margin: 0 10px;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+}
+.pagination li:first-child, .pagination li:last-child{
+    border-radius: 30%;
+}
+.pagination li a{
+    color: black;
+}
+.pagination li:hover {
+    background-color: #bbb;
+}
+.pagination li.active {
+    background-color: #019160;
+}

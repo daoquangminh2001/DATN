@@ -1,0 +1,10 @@
+#billGrid{
+    margin-top: 20px;
+}
+.pay {
+    height: 40px;
+    width: 50px;
+    cursor: pointer;
+    color: #4154f1;
+    font-size: 20px;
+}
